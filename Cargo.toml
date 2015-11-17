@@ -1,0 +1,9 @@
+[package]
+name = "randtest"
+version = "0.0.1"
+authors = ["Pavel Pscheidl <pavel.junior@pscheidl.cz>"]
+license = "GPL-3.0+"
+readme = "README.md"
+
+[dependencies]
+GSL = "*"
